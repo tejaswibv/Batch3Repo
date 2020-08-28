@@ -1,1 +1,4 @@
-class GitHubFile {}
+class GitHubFile {
+int noOfLines;
+  String name;
+}
